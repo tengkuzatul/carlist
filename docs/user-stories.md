@@ -1,6 +1,6 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
+Format: As a lecturer, I want to grade student so that they know their performance early.
 
 1. As a ..., I want ..., so that ...
 2. As a ..., I want ..., so that ...
